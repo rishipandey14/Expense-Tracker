@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1 align="center">Expense Tracker</h1>
+<h1 align="center">Expense  Tracker</h1>
 
 <p align="center">
     A simple web-based expense tracker that allows users to add and remove expenses dynamically. The application also calculates the total expenses in real time.
